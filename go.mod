@@ -1,4 +1,4 @@
-module github.com/arunsingh2004/myconfig
+module github.com/arunsingh2004/config
 
 go 1.24.1
 
